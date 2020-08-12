@@ -1,0 +1,4 @@
+CMD 匯入資料庫
+1.先以admin新增資料庫
+2.在C:/xampp/mysql/bin下輸入mysql -u root 資料庫名稱 < XXXXX.sql
+3.若是有密碼則輸入C:/xampp/mysql/bin下輸入mysql -u root -p 資料庫名稱 < XXXXX.sql
