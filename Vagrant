@@ -1,0 +1,4 @@
+ssh root@位置
+密碼 vagrant
+cd /var/www/html
+mysql -uroot -p 專案名稱 < 專案.sql
